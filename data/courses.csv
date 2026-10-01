@@ -1,0 +1,21 @@
+course_id,course_name,difficulty,credits,pace_recommendation,weekly_hours
+C01,Python Programming,Easy,3,Supported/Standard/Accelerated,6
+C02,Advanced Python,Medium,3,Standard/Accelerated,8
+C03,Data Structures,Medium,4,Standard/Accelerated,10
+C04,Database Management,Medium,3,Supported/Standard/Accelerated,7
+C05,Web Development,Medium,3,Supported/Standard/Accelerated,8
+C06,Software Engineering,Medium,3,Standard/Accelerated,8
+C07,Statistics,Easy,3,Supported/Standard/Accelerated,6
+C08,Machine Learning,Hard,4,Accelerated,12
+C09,Deep Learning,Hard,4,Accelerated,14
+C10,Data Analytics,Medium,3,Supported/Standard/Accelerated,7
+C11,Cloud Computing,Medium,3,Standard/Accelerated,8
+C12,Computer Networks,Medium,3,Standard/Accelerated,8
+C13,Cyber Security,Hard,3,Standard/Accelerated,10
+C14,DevOps,Hard,3,Accelerated,11
+C15,Artificial Intelligence,Hard,4,Accelerated,12
+C16,Mobile App Development,Medium,3,Standard/Accelerated,8
+C17,UI/UX Design,Easy,3,Supported/Standard/Accelerated,5
+C18,Big Data,Hard,4,Accelerated,12
+C19,Natural Language Processing,Hard,4,Accelerated,12
+C20,Project Management,Easy,2,Supported/Standard/Accelerated,4

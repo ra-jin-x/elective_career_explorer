@@ -1,0 +1,87 @@
+student_id,learning_speed,career_goal,model,course_id,prereq_conflict,schedule_conflict,pacing_mismatch,is_valid_choice
+S01,accelerated,AI Engineer,Baseline (Greedy),C08,False,False,False,True
+S01,accelerated,AI Engineer,Baseline (Greedy),C09,True,True,False,False
+S01,accelerated,AI Engineer,Baseline (Greedy),C15,False,False,False,True
+S02,standard,AI Engineer,Baseline (Greedy),C07,False,False,False,True
+S02,standard,AI Engineer,Baseline (Greedy),C08,True,False,False,False
+S02,standard,AI Engineer,Baseline (Greedy),C15,True,False,False,False
+S03,supported,AI Engineer,Baseline (Greedy),C07,False,False,False,True
+S03,supported,AI Engineer,Baseline (Greedy),C09,True,False,True,False
+S03,supported,AI Engineer,Baseline (Greedy),C08,True,True,True,False
+S04,accelerated,Data Scientist,Baseline (Greedy),C10,False,False,False,True
+S04,accelerated,Data Scientist,Baseline (Greedy),C18,True,False,False,False
+S04,accelerated,Data Scientist,Baseline (Greedy),C19,False,False,False,True
+S05,standard,Data Scientist,Baseline (Greedy),C08,False,False,False,True
+S05,standard,Data Scientist,Baseline (Greedy),C10,True,False,False,False
+S05,standard,Data Scientist,Baseline (Greedy),C18,True,False,False,False
+S06,supported,Data Scientist,Baseline (Greedy),C07,False,False,False,True
+S06,supported,Data Scientist,Baseline (Greedy),C08,True,False,True,False
+S06,supported,Data Scientist,Baseline (Greedy),C10,True,False,False,False
+S07,standard,Software Developer,Baseline (Greedy),C02,False,False,False,True
+S07,standard,Software Developer,Baseline (Greedy),C06,False,False,False,True
+S07,standard,Software Developer,Baseline (Greedy),C04,False,False,False,True
+S08,accelerated,Software Developer,Baseline (Greedy),C06,False,False,False,True
+S08,accelerated,Software Developer,Baseline (Greedy),C11,True,False,False,False
+S08,accelerated,Software Developer,Baseline (Greedy),C14,True,False,False,False
+S09,supported,Software Developer,Baseline (Greedy),C01,False,False,False,True
+S09,supported,Software Developer,Baseline (Greedy),C02,True,False,False,False
+S09,supported,Software Developer,Baseline (Greedy),C03,True,True,False,False
+S10,standard,Cloud Engineer,Baseline (Greedy),C11,False,False,False,True
+S10,standard,Cloud Engineer,Baseline (Greedy),C14,True,False,False,False
+S10,standard,Cloud Engineer,Baseline (Greedy),C04,False,False,False,True
+S11,accelerated,Security Engineer,Baseline (Greedy),C13,False,False,False,True
+S11,accelerated,Security Engineer,Baseline (Greedy),C14,True,False,False,False
+S11,accelerated,Security Engineer,Baseline (Greedy),C06,True,False,False,False
+S12,supported,Cloud Engineer,Baseline (Greedy),C12,False,False,False,True
+S12,supported,Cloud Engineer,Baseline (Greedy),C11,True,False,False,False
+S12,supported,Cloud Engineer,Baseline (Greedy),C14,True,False,True,False
+S13,standard,Mobile Developer,Baseline (Greedy),C16,False,False,False,True
+S13,standard,Mobile Developer,Baseline (Greedy),C05,False,False,False,True
+S14,supported,UI/UX Designer,Baseline (Greedy),C17,False,False,False,True
+S14,supported,UI/UX Designer,Baseline (Greedy),C05,False,True,False,False
+S15,accelerated,Project Manager,Baseline (Greedy),C20,False,False,False,True
+S01,accelerated,AI Engineer,Prototype (Responsible AI),C08,False,False,False,True
+S01,accelerated,AI Engineer,Prototype (Responsible AI),C15,False,False,False,True
+S01,accelerated,AI Engineer,Prototype (Responsible AI),C05,False,False,False,True
+S02,standard,AI Engineer,Prototype (Responsible AI),C07,False,False,False,True
+S02,standard,AI Engineer,Prototype (Responsible AI),C03,False,False,False,True
+S02,standard,AI Engineer,Prototype (Responsible AI),C05,False,False,False,True
+S03,supported,AI Engineer,Prototype (Responsible AI),C07,False,False,False,True
+S03,supported,AI Engineer,Prototype (Responsible AI),C01,False,False,False,True
+S03,supported,AI Engineer,Prototype (Responsible AI),C17,False,False,False,True
+S04,accelerated,Data Scientist,Prototype (Responsible AI),C10,False,False,False,True
+S04,accelerated,Data Scientist,Prototype (Responsible AI),C19,False,False,False,True
+S04,accelerated,Data Scientist,Prototype (Responsible AI),C05,False,False,False,True
+S05,standard,Data Scientist,Prototype (Responsible AI),C08,False,False,False,True
+S05,standard,Data Scientist,Prototype (Responsible AI),C05,False,False,False,True
+S05,standard,Data Scientist,Prototype (Responsible AI),C03,False,False,False,True
+S06,supported,Data Scientist,Prototype (Responsible AI),C07,False,False,False,True
+S06,supported,Data Scientist,Prototype (Responsible AI),C17,False,False,False,True
+S06,supported,Data Scientist,Prototype (Responsible AI),C20,False,False,False,True
+S07,standard,Software Developer,Prototype (Responsible AI),C02,False,False,False,True
+S07,standard,Software Developer,Prototype (Responsible AI),C05,False,False,False,True
+S07,standard,Software Developer,Prototype (Responsible AI),C06,False,False,False,True
+S08,accelerated,Software Developer,Prototype (Responsible AI),C06,False,False,False,True
+S08,accelerated,Software Developer,Prototype (Responsible AI),C16,False,False,False,True
+S08,accelerated,Software Developer,Prototype (Responsible AI),C12,False,False,False,True
+S09,supported,Software Developer,Prototype (Responsible AI),C01,False,False,False,True
+S09,supported,Software Developer,Prototype (Responsible AI),C04,False,False,False,True
+S09,supported,Software Developer,Prototype (Responsible AI),C17,False,False,False,True
+S10,standard,Cloud Engineer,Prototype (Responsible AI),C04,False,False,False,True
+S10,standard,Cloud Engineer,Prototype (Responsible AI),C11,False,False,False,True
+S10,standard,Cloud Engineer,Prototype (Responsible AI),C17,False,False,False,True
+S11,accelerated,Security Engineer,Prototype (Responsible AI),C13,False,False,False,True
+S11,accelerated,Security Engineer,Prototype (Responsible AI),C05,False,False,False,True
+S11,accelerated,Security Engineer,Prototype (Responsible AI),C03,False,False,False,True
+S12,supported,Cloud Engineer,Prototype (Responsible AI),C12,False,False,False,True
+S12,supported,Cloud Engineer,Prototype (Responsible AI),C04,False,False,False,True
+S12,supported,Cloud Engineer,Prototype (Responsible AI),C17,False,False,False,True
+S13,standard,Mobile Developer,Prototype (Responsible AI),C16,False,False,False,True
+S13,standard,Mobile Developer,Prototype (Responsible AI),C05,False,False,False,True
+S13,standard,Mobile Developer,Prototype (Responsible AI),C12,False,False,False,True
+S14,supported,UI/UX Designer,Prototype (Responsible AI),C17,False,False,False,True
+S14,supported,UI/UX Designer,Prototype (Responsible AI),C07,False,False,False,True
+S14,supported,UI/UX Designer,Prototype (Responsible AI),C01,False,False,False,True
+S15,accelerated,Project Manager,Prototype (Responsible AI),C20,False,False,False,True
+S15,accelerated,Project Manager,Prototype (Responsible AI),C05,False,False,False,True
+S15,accelerated,Project Manager,Prototype (Responsible AI),C02,False,False,False,True

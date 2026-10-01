@@ -1,0 +1,21 @@
+course_id,learning_outcome,skills,bloom_level
+C01,"Master procedural programming, algorithms, and core syntax","Python, Scripting, Control Flow",Apply
+C02,"Design object-oriented systems, decorators, and concurrency","OOP, Multithreading, Metaprogramming",Analyze
+C03,"Implement algorithmic complexity, trees, graphs, and hash maps","Data Structures, Algorithms, Complexity",Analyze
+C04,"Architect relational schemas, normalization, and SQL optimization","SQL, Schema Design, Indexing, Transactions",Apply
+C05,Build responsive full-stack applications with modern APIs,"HTML/CSS, JavaScript, REST APIs, Frontend",Create
+C06,"Apply Agile lifecycles, CI/CD, and system architecture design","System Design, Agile, Git, Unit Testing",Create
+C07,"Apply inferential statistics, probability distributions, and testing","Hypothesis Testing, Regression, Probability",Analyze
+C08,Train supervised and unsupervised statistical learning models,"Scikit-Learn, Regression, Classification, Clustering",Evaluate
+C09,"Construct neural networks, CNNs, transformers, and backprop","PyTorch, Deep Learning, Computer Vision",Create
+C10,Derive business intelligence from exploratory data pipelines,"Pandas, Tableau, BI Dashboards, EDA",Analyze
+C11,Deploy scalable cloud microservices and serverless infrastructure,"AWS/GCP, Virtualization, Serverless, IAM",Apply
+C12,"Analyze OSI protocol stack, routing algorithms, and socket ops","TCP/IP, Sockets, DNS, Packet Inspection",Analyze
+C13,"Conduct penetration testing, cryptography, and threat modeling","Security Auditing, Cryptography, OWASP Top 10",Evaluate
+C14,Orchestrate automated pipelines with containers and IaC,"Docker, Kubernetes, GitHub Actions, Terraform",Create
+C15,"Formulate search heuristics, knowledge graphs, and expert agents","A* Search, Logic Reasoning, Constraint Satisfaction",Evaluate
+C16,Develop cross-platform native mobile applications,"Flutter/React Native, Mobile UX, State Management",Create
+C17,"Synthesize user journeys, wireframes, and usability heuristics","Figma, User Research, Interaction Design",Create
+C18,Process distributed streaming data with map-reduce engines,"Spark, Hadoop, Kafka, Distributed Processing",Evaluate
+C19,"Implement sequence tokenization, transformers, and LLM prompting","HuggingFace, Tokenization, BERT, Embeddings",Create
+C20,"Manage project scope, risk matrices, and stakeholder milestones","Scrum, Risk Analysis, Budgeting, Sprint Planning",Apply

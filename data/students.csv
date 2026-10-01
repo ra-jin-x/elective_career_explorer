@@ -1,0 +1,16 @@
+student_id,student_name,learning_speed,career_goal,completed_courses,gpa,max_credits
+S01,Aarav Sharma,accelerated,AI Engineer,"C01, C02, C03, C07",3.9,18
+S02,Fatima Al-Mansoor,standard,AI Engineer,C01,3.4,15
+S03,Rohan Mehta,supported,AI Engineer,,2.8,12
+S04,Elena Rostova,accelerated,Data Scientist,"C01, C04, C07, C08",3.85,18
+S05,Marcus Chen,standard,Data Scientist,"C01, C07",3.2,15
+S06,Priya Nair,supported,Data Scientist,C01,2.9,12
+S07,Liam O'Connor,standard,Software Developer,"C01, C03",3.5,15
+S08,Ananya Deshmukh,accelerated,Software Developer,"C01, C02, C03, C04, C05",3.95,18
+S09,Zainab Begum,supported,Software Developer,,2.7,12
+S10,Diego Ramirez,standard,Cloud Engineer,C12,3.3,15
+S11,Chloe Martin,accelerated,Security Engineer,"C01, C12",3.7,18
+S12,Vikram Patel,supported,Cloud Engineer,,2.5,12
+S13,Sara Kim,standard,Mobile Developer,"C01, C03",3.4,15
+S14,Tariq Edwards,supported,UI/UX Designer,C20,3.0,12
+S15,Kavita Rao,accelerated,Project Manager,"C01, C04, C06",3.8,18
